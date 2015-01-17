@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yl</groupId>
-    <artifactId>maven-class</artifactId>
+    <artifactId>heroku-class</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>core</module>
